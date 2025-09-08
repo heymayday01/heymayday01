@@ -1,171 +1,260 @@
-<!-- Dynamic Typing SVG -->
+<!-- Premium Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARYAN%20THAKARE&fontSize=70&color=0:8B5CF6,100:EC4899&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2&desc=Kernel%20Developer%20%7C%20System%20Architect%20%7C%20Performance%20Engineer&descSize=20&descAlignY=65&fontAlignY=40" width="100%" />
+</div>
+
+<!-- Glitch Effect Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&height=70&lines=%3E_%20System.out.println(%22Hello%20World%22);%3E_%20Optimizing%20your%20kernel...;%3E_%20Performance%20unleashed%20%E2%9A%A1" />
+</h1>
+
+<!-- Matrix Rain Effect Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
+</div>
+
+<!-- Premium Social Badges -->
 <p align="center">
   <a href="https://github.com/heymayday01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Thakare;Android+Kernel+Developer;AI+%2B+Systems+Engineer;Performance+Optimizer" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fheymayday01&query=%24.followers&suffix=%20Followers&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=8B5CF6" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=heymayday01&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+  <a href="https://wakatime.com/@heymayday01">
+    <img src="https://img.shields.io/badge/Coding%20Time-2%2C000%20hrs-8B5CF6?style=for-the-badge&logo=wakatime&logoColor=white" />
   </a>
 </p>
 
-<!-- Animated Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=&fontSize=0" width="100%" />
-</p>
+<!-- Animated Terminal -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
-<!-- Profile Views & Social Links in One Line -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heymayday01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/aryanthakare"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/Aryon02"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" /></a>
-  <a href="mailto:aryanthakare2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<!-- About Section with Better Formatting -->
-## 🚀 About Me
-
-```kotlin
-val aryan = Developer {
-    role = "3rd Year CS Engineer"
-    focus = listOf("Android Kernels", "System Optimization", "AI Integration")
-    currentWork = "KernelSU Modules & HyperOS Performance Tuning"
-    goal = "Join Google & innovate at AI + Systems intersection"
-    learning = ["High-Performance Computing", "AI-Driven Automation"]
-}
-```
-
-<!-- Current Focus with Icons -->
-### 🎯 Current Focus
+<!-- Premium About Section with Gradient Border -->
+<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" alt="Linux" />
-      <br><b>Kernel Dev</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="65" height="65" alt="Android" />
-      <br><b>Android Systems</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br><b>AI/ML</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="Performance" />
-      <br><b>Performance</b>
-    </td>
+    <td>
+      
+```javascript
+// 🚀 Runtime Configuration
+const aryanThakare = {
+    pronouns: "He/Him",
+    title: "Kernel Sorcerer & Performance Alchemist",
+    currentFocus: {
+        🎯: "KernelSU AI-Powered Optimization",
+        🔥: "Snapdragon 888 Performance Tuning",
+        ⚡: "HyperOS System Architecture",
+        🧬: "Neural Network Kernel Integration"
+    },
+    architecture: ["arm64-v8a", "System-on-Chip", "RISC-V"],
+    techStack: {
+        kernelDev: ["Linux", "AOSP", "KernelSU", "Magisk"],
+        languages: ["C", "C++", "Assembly", "Python", "Rust"],
+        systemLevel: ["DVFS", "CPU Governors", "I/O Schedulers"],
+        ai_ml: ["TensorFlow", "PyTorch", "ONNX Runtime"],
+        currentlyLearning: ["eBPF", "Rust for Kernels", "MLIR"]
+    },
+    achievements: {
+        "2024": "30% Battery Optimization with 0% Performance Loss",
+        "2023": "Custom GPU Driver for Mali/Adreno",
+        "2022": "First KernelSU Module with AI Scheduler"
+    },
+    funFact: "My code runs closer to metal than a blacksmith's hammer"
+};
+```
+
+</td>
   </tr>
 </table>
 
-<!-- Featured Projects -->
-## 🔥 Featured Projects
+<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
 
-<p align="center">
-  <a href="https://github.com/heymayday01/kernelsu-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=kernelsu-modules&theme=tokyonight&hide_border=true" />
+<!-- Animated Skills Section with Holographic Effect -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  <b>Tech Arsenal</b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+</h2>
+
+<!-- Animated Skill Cards -->
+<div align="center">
+  
+### ⚡ Core Technologies
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,vim,neovim,linux&theme=dark&perline=8" />
+
+### 🎨 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs,tensorflow,pytorch,docker,kubernetes,git,github&theme=dark&perline=8" />
+
+### 🔧 System & Performance
+<img src="https://skillicons.dev/icons?i=androidstudio,gradle,cmake,powershell,regex,sqlite,redis,nginx&theme=dark&perline=8" />
+
+</div>
+
+<!-- Premium Stats Dashboard -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+  <b>Performance Metrics</b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+</h2>
+
+<div align="center">
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=heymayday01&show_icons=true&count_private=true&line_height=20&icon_color=8B5CF6&theme=shades-of-purple&title_color=8B5CF6" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymayday01&theme=shades-of-purple&hide_border=false&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" width="450" />
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&bg_color=0d1117&color=8B5CF6&line=EC4899&point=8B5CF6&area_color=8B5CF6&area=true&hide_border=false&custom_title=Contribution%20Graph%20%F0%9F%93%88" width="100%" />
+</div>
+
+<!-- Language Stats with Animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayday01&layout=compact&theme=shades-of-purple&hide_border=false&title_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117&langs_count=10&card_width=445" />
+</div>
+
+<!-- WakaTime Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@heymayday01&theme=shades-of-purple&hide_border=false&title_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117&range=all_time" />
+</div>
+
+<!-- Trophy Section with Glow Effect -->
+<div align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
+  <h2>
+    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50px">
+    <b>Achievement Unlocked</b>
+    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50px">
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=heymayday01&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+<!-- Featured Projects with Holographic Cards -->
+<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
+
+<h2 align="center">
+  💠 <b>Featured Projects</b> 💠
+</h2>
+
+<div align="center">
+  <a href="https://github.com/heymayday01/kernelsu-ai-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=kernelsu-ai-optimizer&theme=shades-of-purple&hide_border=false&border_color=8B5CF6&bg_color=0d1117&title_color=8B5CF6&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/heymayday01/hyperos-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=hyperos-optimizer&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/heymayday01/hyperos-performance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=hyperos-performance&theme=shades-of-purple&hide_border=false&border_color=8B5CF6&bg_color=0d1117&title_color=8B5CF6&text_color=FFFFFF" />
   </a>
-</p>
+</div>
 
-<!-- Tech Stack with Categories -->
-## 💻 Tech Arsenal
+<div align="center">
+  <a href="https://github.com/heymayday01/snapdragon-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=snapdragon-toolkit&theme=shades-of-purple&hide_border=false&border_color=8B5CF6&bg_color=0d1117&title_color=8B5CF6&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/heymayday01/android-audio-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=android-audio-engine&theme=shades-of-purple&hide_border=false&border_color=8B5CF6&bg_color=0d1117&title_color=8B5CF6&text_color=FFFFFF" />
+  </a>
+</div>
 
-<details>
-<summary><b>🔧 Languages & Frameworks</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash&theme=dark" />
-</p>
-</details>
+<!-- Coding Activity -->
+<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
 
-<details>
-<summary><b>🌐 Web & Mobile</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,mongodb,mysql&theme=dark" />
-</p>
-</details>
+<h2 align="center">⚡ Recent Activity</h2>
 
-<details>
-<summary><b>🤖 AI/ML & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,linux,vim&theme=dark" />
-</p>
-</details>
+<!--START_SECTION:activity-->
+```terminal
+$ git log --oneline -5
+8B5CF6E feat: Implemented AI-based CPU governor for Snapdragon 888
+EC4899A perf: Optimized kernel memory management by 40%
+7C3ADB2 fix: Resolved thermal throttling in gaming scenarios
+A855DB1 docs: Updated KernelSU module documentation
+3B82F6D chore: Refactored DVFS implementation for better efficiency
+```
+<!--END_SECTION:activity-->
 
-<!-- GitHub Stats in Grid -->
-## 📊 GitHub Analytics
+<!-- Spotify Now Playing -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a4qp6x6nay26x3qrtl3kmqjzxy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=8B5CF6&bar_color_cover=false" />
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heymayday01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heymayday01&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Quote Section with Typing Effect -->
+<div align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
+  <h2>💭 <b>Philosophy.h</b></h2>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20kernel%20is%20where%20software%20meets%20reality.&author=Aryan%20Thakare)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayday01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<!-- Connect Section with Hover Effects -->
+<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <b>Let's Connect & Build Something Amazing</b>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<!-- Achievements Section -->
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heymayday01&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
-### ⚡ Recent Achievements
-- 🎯 Built KernelSU scripts for **Snapdragon 888** with advanced DVFS & scheduler tweaks
-- 🔋 Optimized HyperOS for **30% better battery** with maintained performance
-- 🎵 Implemented Dolby Atmos & Hi-Fi audio stacks for custom ROMs
-- 🚀 Achieved **15% performance boost** in GPU-intensive tasks through kernel tuning
-
-<!-- Random Quote with Custom Styling -->
-## 💭 Dev Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<!-- Connect Section -->
-## 🤝 Let's Connect!
-
-<p align="center">
+<div align="center">
+  <a href="https://linkedin.com/in/aryanthakare">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Aryon02">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://discord.gg/aryanthakare">
-    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/arryan__n">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aryanthakare">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:aryanthakare2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
-<!-- Snake Animation -->
-<p align="center">
+<!-- Contribution Snake with Glow -->
+<div align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/heymayday01/heymayday01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+  <br>
+</div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+<!-- Footer with Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=100&section=footer&fontSize=0" width="100%" />
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=heymayday01&label=Visitors&color=0&icon=5&pretty=true" />
-</p>
+<!-- Visitor Badge with Animation -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/heymayday01/count.svg" />
+  
+  <br><br>
+  
+  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+  
+  <br>
+  
+  <b>⚡ Crafted with precision at the kernel level ⚡</b>
+  
+  <br>
+  
+  ```ascii
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  "Performance is not about doing more,                       ║
+  ║   it's about wasting less." - Aryan Thakare                 ║
+  ╚══════════════════════════════════════════════════════════════╝
+  ```
+</div>
 
-<!-- Hidden Watermark -->
-<!-- 
-╔══════════════════════════════════════════════════╗
-║  Built with ❤️ by Aryan Thakare                  ║
-║  Kernel Developer | System Optimizer | AI Engineer║
-╚══════════════════════════════════════════════════╝
+<!-- Hidden ASCII Art -->
+<!--
+██╗  ██╗███████╗██████╗ ███╗   ██╗███████╗██╗     
+██║ ██╔╝██╔════╝██╔══██╗████╗  ██║██╔════╝██║     
+█████╔╝ █████╗  ██████╔╝██╔██╗ ██║█████╗  ██║     
+██╔═██╗ ██╔══╝  ██╔══██╗██║╚██╗██║██╔══╝  ██║     
+██║  ██╗███████╗██║  ██║██║ ╚████║███████╗███████╗
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+                                                    
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
 -->
-
