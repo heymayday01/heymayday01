@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi, I’m **Aryan Thakare** 👋  
-🎓 2nd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer  
+🎓 3rd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer  
 
 I’m passionate about pushing the limits of **Android systems, kernels, and AI**.  
 Currently exploring how **performance, efficiency, and smooth user experience** can work hand in hand.  
