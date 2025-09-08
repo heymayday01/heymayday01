@@ -1,67 +1,17 @@
-<!-- Apple-style Frosted Hero (paste into README.md) -->
-<div align="center" style="margin: 18px 0;">
-  <div style="
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:28px;
-      max-width:980px;
-      width:92%;
-      padding:28px;
-      border-radius:20px;
-      background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.02) 100%);
-      border: 1px solid rgba(255,255,255,0.06);
-      box-shadow: 0 10px 30px rgba(11,15,26,0.45);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
-      ">
-    <!-- Left (text) -->
-    <div style="flex:1; min-width:280px;">
-      <h1 style="margin:0 0 8px 0; font-size:36px; line-height:1.02; letter-spacing:-0.6px; color:#ffffff; font-weight:600;">
-        Aryan Thakare
-      </h1>
-      <p style="margin:0 0 18px 0; color:rgba(255,255,255,0.85); font-size:15px;">
-        <strong style="color:#dbeafe">Kernel Developer</strong> • System Architect • Performance Engineer<br/>
-        Crafting high-performance Android kernels, AI-driven system optimizations, and smooth, battery-friendly experiences.
-      </p>
+<!-- Dynamic Typing SVG -->
+<p align="center">
+  <a href="https://github.com/heymayday01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Thakare;Android+Kernel+Developer;AI+%2B+Systems+Engineer;Performance+Optimizer" alt="Typing SVG" />
+  </a>
+</p>
 
-      <!-- chips -->
-      <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:18px;">
-        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(255,255,255,0.04); color:#e6edf3; border:1px solid rgba(255,255,255,0.03);">Snapdragon 888</span>
-        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(139,92,246,0.12); color:#dcd7ff; border:1px solid rgba(139,92,246,0.18);">KernelSU</span>
-        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(255,255,255,0.02); color:#e6edf3; border:1px solid rgba(255,255,255,0.03);">AI • Optimization</span>
-      </div>
-
-      <!-- CTA buttons -->
-      <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration:none;">
-          <span style="display:inline-block;padding:10px 14px;border-radius:12px;background:linear-gradient(90deg,#111827,#0b1220);color:white;font-weight:600;font-size:13px;border:1px solid rgba(255,255,255,0.04);box-shadow: 0 6px 14px rgba(11,15,26,0.35);">
-            View Projects →
-          </span>
-        </a>
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none;">
-          <span style="display:inline-block;padding:10px 14px;border-radius:12px;font-size:13px;color: #111827;background:linear-gradient(90deg,#ffffff,#f6f7fb);border:1px solid rgba(0,0,0,0.06);">
-            Connect on LinkedIn
-          </span>
-        </a>
-        <a href="#projects" style="text-decoration:none;font-size:13px;color:rgba(255,255,255,0.75);margin-left:6px;">
-          • Scroll to projects
-        </a>
-      </div>
-    </div>
-
-    <!-- Right (device / mockup) -->
-    <div style="width:360px; max-width:40%; display:flex; justify-content:center; align-items:center;">
-      <img src="./assets/hero-device.webp" alt="device mockup" style="
-           width:320px;
-           border-radius:22px;
-           box-shadow: 0 20px 40px rgba(3,10,18,0.55), inset 0 1px 0 rgba(255,255,255,0.04);
-           border: 1px solid rgba(255,255,255,0.06);
-           transform: translateY(-6px);
-           " />
-    </div>
-  </div>
-</div>
+<!-- Profile Views & Social Links in One Line -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heymayday01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/aryanthakare"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/Aryon02"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" /></a>
+  <a href="mailto:aryanthakare2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
 <!-- Animated Terminal Separator -->
@@ -134,7 +84,6 @@ const aryanThakare = {
 <div align="center">
   <img src="https://bad-apple-github-readme.vercel.app/api?username=heymayday01&show_icons=true&count_private=true&line_height=20&icon_color=8B5CF6&theme=shades-of-purple&title_color=8B5CF6" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymayday01&theme=shades-of-purple&hide_border=false&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" width="450" />
-</div>
 
 <!-- 3D Contribution Graph -->
 <div align="center">
@@ -253,25 +202,18 @@ A855DB1 docs: Updated KernelSU module documentation
 <!-- Footer with Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=100&section=footer&fontSize=0" width="100%" />
 
-<!-- Visitor Badge with Animation -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/heymayday01/count.svg" />
-  
   <br><br>
-  
-  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-  
-  <br>
+
   
   <b>⚡ Crafted with precision at the kernel level ⚡</b>
   
   <br>
   
   ```ascii
-                                         ╔══════════════════════════════════════════════════════════════╗
-                                         ║  "Performance is not about doing more,                       ║
-                                         ║   it's about wasting less." - Aryan Thakare                  ║
-                                         ╚══════════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  "Performance is not about doing more,                       ║
+    ║   it's about wasting less." - Aryan Thakare                  ║
+    ╚══════════════════════════════════════════════════════════════╝
   ```
 </div>
 
