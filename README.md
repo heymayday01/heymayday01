@@ -1,40 +1,39 @@
-<!-- Premium Animated Header -->
+<!-- Modern Gradient Header with Particle Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARYAN%20THAKARE&fontSize=70&color=0:8B5CF6,100:EC4899&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2&desc=Kernel%20Developer%20%7C%20System%20Architect%20%7C%20Performance%20Engineer&descSize=20&descAlignY=65&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,17,11&height=200&section=header&text=ARYAN%20THAKARE&fontSize=70&fontColor=ffffff&animation=scaleIn&stroke=8B5CF6&strokeWidth=2&desc=Kernel%20Developer%20%7C%20System%20Architect%20%7C%20Performance%20Engineer&descSize=20&descAlignY=75&fontAlignY=45" width="100%" />
 </div>
 
-<!-- Glitch Effect Name -->
+<!-- Animated Matrix Binary Rain -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryan-thakare/aryan-thakare/main/images/matrix-binary-rain.gif" width="100%" height="150" alt="Matrix binary rain animation" />
+</div>
+
+<!-- Modern Glitch Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&height=70&lines=%3E_%20System.out.println(%22Hello%20World%22);%3E_%20Optimizing%20your%20kernel...;%3E_%20Performance%20unleashed%20%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=%3E_%20System.out.println(%22Hello%20World%22);%3E_%20Optimizing%20your%20kernel...;%3E_%20Performance%20unleashed%20%E2%9A%A1;%3E_%20KernelSU+AI+Integration" alt="Typing animation" />
 </h1>
 
-<!-- Matrix Rain Effect Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
-</div>
-
-<!-- Premium Social Badges -->
+<!-- Premium Social Badges with Hover Effects -->
 <p align="center">
   <a href="https://github.com/heymayday01">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fheymayday01&query=%24.followers&suffix=%20Followers&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=8B5CF6" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fheymayday01&query=%24.followers&suffix=%20Followers&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=8B5CF6" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=heymayday01&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=heymayday01&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://wakatime.com/@heymayday01">
-    <img src="https://img.shields.io/badge/Coding%20Time-2%2C000%20hrs-8B5CF6?style=for-the-badge&logo=wakatime&logoColor=white" />
+    <img src="https://img.shields.io/badge/Coding%20Time-2%2C000%20hrs-8B5CF6?style=for-the-badge&logo=wakatime&logoColor=white" alt="Coding time" />
+  </a>
+  <a href="https://linkedin.com/in/aryanthakare">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Aryon02">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
-<!-- Animated Terminal -->
+<!-- Animated Terminal Separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
-
-<!-- Premium About Section with Gradient Border -->
-<img src="https://i.imgur.com/4M7IWwP.gif" width="100%" height="2" />
-
-<table align="center">
-  <tr>
-    <td>
       
 ```javascript
 // 🚀 Runtime Configuration
@@ -235,10 +234,10 @@ A855DB1 docs: Updated KernelSU module documentation
   <br>
   
   ```ascii
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  "Performance is not about doing more,                       ║
-  ║   it's about wasting less." - Aryan Thakare                 ║
-  ╚══════════════════════════════════════════════════════════════╝
+                                         ╔══════════════════════════════════════════════════════════════╗
+                                         ║  "Performance is not about doing more,                       ║
+                                         ║   it's about wasting less." - Aryan Thakare                  ║
+                                         ╚══════════════════════════════════════════════════════════════╝
   ```
 </div>
 
