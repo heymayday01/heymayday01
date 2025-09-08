@@ -5,15 +5,11 @@
 
 <h1 align="center">👋 Hi, I’m <strong>Aryan Thakare</strong></h1>
 <p align="center">
-  <em>2nd-year Computer Science Engineer • Android Kernel & System Optimizer • AI + Systems</em>
+  <em>🎓 3rd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer | 📱Android Kernel & System Optimizer | 👽AI + Systems</em>
 </p>
 
 
 # 💫 About Me
-
-Hi, I’m **Aryan Thakare** 👋  
-🎓 3rd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer  
-
 I’m passionate about pushing the limits of **Android systems, kernels, and AI**.  
 Currently exploring how **performance, efficiency, and smooth user experience** can work hand in hand.  
 
@@ -28,9 +24,14 @@ Currently exploring how **performance, efficiency, and smooth user experience** 
 
 ✨ Goal: To innovate at the intersection of **AI, system-level engineering, and open-source**,  
 with a vision to join **Google** and contribute to next-gen technology.
+---
 
+## 🔥 Quick Wins / Highlights
+- Built KernelSU scripts for Snapdragon 888 with advanced DVFS & scheduler tweaks  
+- Regularly optimize HyperOS ports (smoothness + battery balance) and audio stacks  
+- Comfortable with kernel builds, patching, and complex debugging (AOSP, custom ROMs)
 
-
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryanthakare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arryan__n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Thakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aryon02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanthakare2003@GMAIL.COM) 
 
