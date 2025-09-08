@@ -1,34 +1,68 @@
-<!-- Modern Gradient Header with Particle Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,16,17,11&height=200&section=header&text=ARYAN%20THAKARE&fontSize=70&fontColor=ffffff&animation=scaleIn&stroke=8B5CF6&strokeWidth=2&desc=Kernel%20Developer%20%7C%20System%20Architect%20%7C%20Performance%20Engineer&descSize=20&descAlignY=75&fontAlignY=45" width="100%" />
+<!-- Apple-style Frosted Hero (paste into README.md) -->
+<div align="center" style="margin: 18px 0;">
+  <div style="
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:28px;
+      max-width:980px;
+      width:92%;
+      padding:28px;
+      border-radius:20px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.02) 100%);
+      border: 1px solid rgba(255,255,255,0.06);
+      box-shadow: 0 10px 30px rgba(11,15,26,0.45);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      ">
+    <!-- Left (text) -->
+    <div style="flex:1; min-width:280px;">
+      <h1 style="margin:0 0 8px 0; font-size:36px; line-height:1.02; letter-spacing:-0.6px; color:#ffffff; font-weight:600;">
+        Aryan Thakare
+      </h1>
+      <p style="margin:0 0 18px 0; color:rgba(255,255,255,0.85); font-size:15px;">
+        <strong style="color:#dbeafe">Kernel Developer</strong> • System Architect • Performance Engineer<br/>
+        Crafting high-performance Android kernels, AI-driven system optimizations, and smooth, battery-friendly experiences.
+      </p>
+
+      <!-- chips -->
+      <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:18px;">
+        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(255,255,255,0.04); color:#e6edf3; border:1px solid rgba(255,255,255,0.03);">Snapdragon 888</span>
+        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(139,92,246,0.12); color:#dcd7ff; border:1px solid rgba(139,92,246,0.18);">KernelSU</span>
+        <span style="padding:6px 10px; border-radius:999px; font-size:13px; background:rgba(255,255,255,0.02); color:#e6edf3; border:1px solid rgba(255,255,255,0.03);">AI • Optimization</span>
+      </div>
+
+      <!-- CTA buttons -->
+      <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME" style="text-decoration:none;">
+          <span style="display:inline-block;padding:10px 14px;border-radius:12px;background:linear-gradient(90deg,#111827,#0b1220);color:white;font-weight:600;font-size:13px;border:1px solid rgba(255,255,255,0.04);box-shadow: 0 6px 14px rgba(11,15,26,0.35);">
+            View Projects →
+          </span>
+        </a>
+        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none;">
+          <span style="display:inline-block;padding:10px 14px;border-radius:12px;font-size:13px;color: #111827;background:linear-gradient(90deg,#ffffff,#f6f7fb);border:1px solid rgba(0,0,0,0.06);">
+            Connect on LinkedIn
+          </span>
+        </a>
+        <a href="#projects" style="text-decoration:none;font-size:13px;color:rgba(255,255,255,0.75);margin-left:6px;">
+          • Scroll to projects
+        </a>
+      </div>
+    </div>
+
+    <!-- Right (device / mockup) -->
+    <div style="width:360px; max-width:40%; display:flex; justify-content:center; align-items:center;">
+      <img src="./assets/hero-device.webp" alt="device mockup" style="
+           width:320px;
+           border-radius:22px;
+           box-shadow: 0 20px 40px rgba(3,10,18,0.55), inset 0 1px 0 rgba(255,255,255,0.04);
+           border: 1px solid rgba(255,255,255,0.06);
+           transform: translateY(-6px);
+           " />
+    </div>
+  </div>
 </div>
 
-<!-- Animated Matrix Binary Rain -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aryan-thakare/aryan-thakare/main/images/matrix-binary-rain.gif" width="100%" height="150" alt="Matrix binary rain animation" />
-</div>
-
-<!-- Modern Glitch Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=%3E_%20System.out.println(%22Hello%20World%22);%3E_%20Optimizing%20your%20kernel...;%3E_%20Performance%20unleashed%20%E2%9A%A1;%3E_%20KernelSU+AI+Integration" alt="Typing animation" />
-</h1>
-
-<!-- Premium Social Badges with Hover Effects -->
-<p align="center">
-  <a href="https://github.com/heymayday01">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fheymayday01&query=%24.followers&suffix=%20Followers&style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=8B5CF6" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=heymayday01&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://wakatime.com/@heymayday01">
-    <img src="https://img.shields.io/badge/Coding%20Time-2%2C000%20hrs-8B5CF6?style=for-the-badge&logo=wakatime&logoColor=white" alt="Coding time" />
-  </a>
-  <a href="https://linkedin.com/in/aryanthakare">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Aryon02">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
 
 <!-- Animated Terminal Separator -->
 <div align="center">
