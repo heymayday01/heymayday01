@@ -1,3 +1,14 @@
+<!-- ===== HERO ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero-wave.gif" alt="hero" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I’m <strong>Aryan Thakare</strong></h1>
+<p align="center">
+  <em>2nd-year Computer Science Engineer • Android Kernel & System Optimizer • AI + Systems</em>
+</p>
+
+
 # 💫 About Me
 
 Hi, I’m **Aryan Thakare** 👋  
