@@ -1,56 +1,171 @@
-<!-- ===== HERO ===== -->
+<!-- Dynamic Typing SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/hero-wave.gif" alt="hero" width="100%" />
+  <a href="https://github.com/heymayday01">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Thakare;Android+Kernel+Developer;AI+%2B+Systems+Engineer;Performance+Optimizer" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">👋 Hi, I’m <strong>Aryan Thakare</strong></h1>
+<!-- Animated Wave -->
 <p align="center">
-  <em>🎓 3rd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer | 📱Android Kernel & System Optimizer | 👽AI + Systems</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=&fontSize=0" width="100%" />
 </p>
 
----
-# 💫 About Me
-I’m passionate about pushing the limits of **Android systems, kernels, and AI**.  
-Currently exploring how **performance, efficiency, and smooth user experience** can work hand in hand.  
----
-🔭 Working on:  
-- ⚡ **KernelSU Modules** – AI-powered system & kernel optimizations  
-- 📱 **HyperOS Tuning** – Smoothness, GPU boost, and battery-life balance  
-- 🎵 **Audio Enhancements** – Dolby, Hi-Fi, and immersive sound configs  
----
-🌱 Learning more about:  
-- 🤖 AI + Automation for system intelligence  
-- 🏎️ High-performance computing and optimization strategies  
----
-✨ Goal: To innovate at the intersection of **AI, system-level engineering, and open-source**,  
-with a vision to join **Google** and contribute to next-gen technology.
----
-## 🔥 Quick Wins / Highlights
-- Built KernelSU scripts for Snapdragon 888 with advanced DVFS & scheduler tweaks  
-- Regularly optimize HyperOS ports (smoothness + battery balance) and audio stacks  
-- Comfortable with kernel builds, patching, and complex debugging (AOSP, custom ROMs)
----
+<!-- Profile Views & Social Links in One Line -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heymayday01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/aryanthakare"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/Aryon02"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" /></a>
+  <a href="mailto:aryanthakare2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryanthakare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arryan__n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Thakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aryon02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanthakare2003@GMAIL.COM) 
+<!-- About Section with Better Formatting -->
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=heymayday01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=heymayday01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heymayday01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```kotlin
+val aryan = Developer {
+    role = "3rd Year CS Engineer"
+    focus = listOf("Android Kernels", "System Optimization", "AI Integration")
+    currentWork = "KernelSU Modules & HyperOS Performance Tuning"
+    goal = "Join Google & innovate at AI + Systems intersection"
+    learning = ["High-Performance Computing", "AI-Driven Automation"]
+}
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=heymayday01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Current Focus with Icons -->
+### 🎯 Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" alt="Linux" />
+      <br><b>Kernel Dev</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="65" height="65" alt="Android" />
+      <br><b>Android Systems</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br><b>AI/ML</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="Performance" />
+      <br><b>Performance</b>
+    </td>
+  </tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=heymayday01&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+<!-- Featured Projects -->
+## 🔥 Featured Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=heymayday01&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://github.com/heymayday01/kernelsu-modules">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=kernelsu-modules&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/heymayday01/hyperos-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=hyperos-optimizer&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Tech Stack with Categories -->
+## 💻 Tech Arsenal
+
+<details>
+<summary><b>🔧 Languages & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>🌐 Web & Mobile</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,mongodb,mysql&theme=dark" />
+</p>
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,linux,vim&theme=dark" />
+</p>
+</details>
+
+<!-- GitHub Stats in Grid -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heymayday01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heymayday01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayday01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<!-- Achievements Section -->
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heymayday01&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+### ⚡ Recent Achievements
+- 🎯 Built KernelSU scripts for **Snapdragon 888** with advanced DVFS & scheduler tweaks
+- 🔋 Optimized HyperOS for **30% better battery** with maintained performance
+- 🎵 Implemented Dolby Atmos & Hi-Fi audio stacks for custom ROMs
+- 🚀 Achieved **15% performance boost** in GPU-intensive tasks through kernel tuning
+
+<!-- Random Quote with Custom Styling -->
+## 💭 Dev Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<!-- Connect Section -->
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://discord.gg/aryanthakare">
+    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/arryan__n">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aryanthakare">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heymayday01/heymayday01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=heymayday01&label=Visitors&color=0&icon=5&pretty=true" />
+</p>
+
+<!-- Hidden Watermark -->
+<!-- 
+╔══════════════════════════════════════════════════╗
+║  Built with ❤️ by Aryan Thakare                  ║
+║  Kernel Developer | System Optimizer | AI Engineer║
+╚══════════════════════════════════════════════════╝
+-->
+
