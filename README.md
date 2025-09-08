@@ -1,5 +1,23 @@
-# 💫 About Me:
-I’m Aryan Thakare, a passionate Computer Science Engineer (CSE, 2nd Year) with deep interest in <br>⚡ Android Kernel Development, 📱 System Optimization, 🤖 AI-driven automation, and 🏎️ High-performance computing.<br><br>Currently, I’m building custom KernelSU modules, optimizing HyperOS for Snapdragon 888 devices, <br>and exploring AI-driven solutions that balance ⚡ performance, 🔋 efficiency, and 🎵 multimedia experience.  <br>
+# 💫 About Me
+
+Hi, I’m **Aryan Thakare** 👋  
+🎓 2nd-year Computer Science Engineer | 💻 Developer | 🚀 Optimizer  
+
+I’m passionate about pushing the limits of **Android systems, kernels, and AI**.  
+Currently exploring how **performance, efficiency, and smooth user experience** can work hand in hand.  
+
+🔭 Working on:  
+- ⚡ **KernelSU Modules** – AI-powered system & kernel optimizations  
+- 📱 **HyperOS Tuning** – Smoothness, GPU boost, and battery-life balance  
+- 🎵 **Audio Enhancements** – Dolby, Hi-Fi, and immersive sound configs  
+
+🌱 Learning more about:  
+- 🤖 AI + Automation for system intelligence  
+- 🏎️ High-performance computing and optimization strategies  
+
+✨ Goal: To innovate at the intersection of **AI, system-level engineering, and open-source**,  
+with a vision to join **Google** and contribute to next-gen technology.
+
 
 
 ## 🌐 Socials:
