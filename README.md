@@ -103,13 +103,6 @@ const aryanThakare = {
   🛠️ **20+** Custom ROM Contributions  
   🎯 **95%** Uptime on Production Systems  
   📊 **40%** Average Performance Gains  
-  
-  <br>
-  
-  **🎵 Currently Jamming To**
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a4qp6x6nay26x3qrtl3kmqjzxy&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color=58A6FF" />
-  
 </div>
 
 </td>
@@ -174,119 +167,6 @@ const aryanThakare = {
 </div>
 
 <br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&bg_color=0d1117&color=58A6FF&line=FF6B35&point=58A6FF&area_color=58A6FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="100%" />
-</div>
-
-<!-- Enhanced Trophy Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  
-  <h2>
-    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="40">
-    <b>🏆 Achievement Unlocked</b>
-    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="40">
-  </h2>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=heymayday01&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
-</div>
-
-<!-- Featured Projects Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  
-  <h2>💎 <b>Featured Projects</b></h2>
-  
-  <!-- Project Cards Grid -->
-  <div>
-    <a href="https://github.com/heymayday01/kernelsu-ai-optimizer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=kernelsu-ai-optimizer&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&icon_color=58A6FF" width="49%" />
-    </a>
-    <a href="https://github.com/heymayday01/hyperos-performance">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=hyperos-performance&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&icon_color=58A6FF" width="49%" />
-    </a>
-  </div>
-  
-  <br>
-  
-  <div>
-    <a href="https://github.com/heymayday01/snapdragon-toolkit">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=snapdragon-toolkit&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&icon_color=58A6FF" width="49%" />
-    </a>
-    <a href="https://github.com/heymayday01/android-audio-engine">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=android-audio-engine&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&icon_color=58A6FF" width="49%" />
-    </a>
-  </div>
-</div>
-
-<!-- Recent Activity -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  
-  <h2>⚡ Recent Terminal Activity</h2>
-  
-  <div align="left">
-  
-```terminal
-┌──(aryan@kernel-forge)-[~/projects]
-└─$ git log --oneline --graph -10
-* 🔥 58A6FF  feat: Implemented AI-based CPU governor for Snapdragon 888
-* ⚡ FF6B35  perf: Optimized kernel memory management by 40%
-* 🛡️ 7C3ADB  fix: Resolved thermal throttling in gaming scenarios  
-* 📚 A855DB  docs: Updated KernelSU module documentation
-* 🔧 3B82F6  refactor: Enhanced DVFS implementation for efficiency
-* 🚀 2A7B9C  feat: Added neural network scheduler integration
-* 🎯 1F4D8E  optimize: Reduced context switch overhead by 25%
-* 🔋 9E3C7A  power: Implemented adaptive battery management
-* 🎨 6B2F85  ui: Enhanced performance monitoring dashboard
-* 🐛 4A8D92  fix: Memory leak in kernel module loader
-
-┌──(aryan@kernel-forge)-[~/stats]
-└─$ neofetch --kernel_shorthand off --cpu_temp C
-                   OS: Arch Linux x86_64
-                 Kernel: 6.8.0-aryan-optimized
-               Uptime: 69 days, 13 hours, 37 mins
-                CPU: Intel i9-13900KS (32) @ 5.80GHz
-            CPU Temp: 42°C
-              Memory: 15.2GB / 64.0GB (24%)
-         Performance: MAXIMUM_OVERDRIVE_MODE
-    Current Project: KernelSU AI Optimization
-      Commits Today: 7
-     Coffee Consumed: ∞
-```
-
-  </div>
-</div>
-
-<!-- Weekly Development Breakdown -->
-<div align="center">
-  <h3>📈 Weekly Development Breakdown</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@heymayday01&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&range=last_7_days" />
-</div>
-
-<!-- Interactive Quote Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-  
-  <h2>💭 <b>System Philosophy</b></h2>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20kernel%20is%20where%20software%20meets%20reality%20—%20make%20it%20count.&author=Aryan%20Thakare&border=true" />
-  
-  <br>
-  
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║  "Every millisecond matters when you're optimizing at the        ║
-║   kernel level. Performance isn't just a feature —               ║
-║   it's a philosophy."                                            ║
-║                                          - Aryan Thakare         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <!-- Enhanced Connect Section -->
 <div align="center">
@@ -366,14 +246,7 @@ const aryanThakare = {
   <br><br>
   <!-- Visitor Counter -->
   <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" alt="Visitor Count" />
-  
-  <br><br>
-  
-  **Last Updated:** `$(date +'%Y-%m-%d %H:%M:%S UTC')`
 </div>
-
----
-
 <!-- ASCII Art Footer -->
 <div align="center">
   
