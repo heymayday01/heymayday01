@@ -233,7 +233,7 @@ const aryanThakare = {
 
 <div align="center">
    <!-- Visitor Counter -->
-  <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" width="50%" alt="Visitor Count" />
   <!-- Enhanced Snake Animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" /> 
 </div>
