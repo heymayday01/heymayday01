@@ -160,67 +160,46 @@ const aryanThakare = {
   </h1>
 </div>
 
-<!-- Premium Social Media Cards with Hover Effects -->
+<!-- Clean Minimal Social Links -->
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 20px; border: none;">
-        <a href="https://linkedin.com/in/aryanthakare">
-          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="100" style="border-radius: 20px;" />
-          <br><br>
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-          <br>
-          <sub><b>🌐 Professional Network</b></sub>
-          <br>
-          <sub>Connect • Collaborate • Career</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 20px; border: none;">
-        <a href="https://x.com/Aryon02">
-          <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" height="100" style="border-radius: 20px;" />
-          <br><br>
-          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-          <br>
-          <sub><b>🐦 Tech Updates</b></sub>
-          <br>
-          <sub>Latest • Insights • Thoughts</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 20px; border: none;">
-        <a href="https://discord.gg/aryanthakare">
-          <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" height="100" style="border-radius: 20px;" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-          <br>
-          <sub><b>🎮 Community Hub</b></sub>
-          <br>
-          <sub>Chat • Support • Gaming</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 20px; border: none;">
-        <a href="https://instagram.com/arryan__n">
-          <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" height="100" style="border-radius: 20px;" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-          <br>
-          <sub><b>📸 Behind the Scenes</b></sub>
-          <br>
-          <sub>Life • Code • Journey</sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 20px; border: none;">
-        <a href="mailto:aryanthakare2003@gmail.com">
-          <img src="https://user-images.githubusercontent.com/74038190/216121986-3e4db49e-8c42-4813-9b27-d59825b82645.gif" width="100" height="100" style="border-radius: 20px;" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-          <br>
-          <sub><b>✉️ Direct Contact</b></sub>
-          <br>
-          <sub>Business • Projects • Ideas</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div>
+    <a href="https://linkedin.com/in/aryanthakare">
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/Aryon02">
+      <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.gg/aryanthakare">
+      <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/arryan__n">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:aryanthakare2003@gmail.com">
+      <img src="https://user-images.githubusercontent.com/74038190/216121986-3e4db49e-8c42-4813-9b27-d59825b82645.gif" width="60" height="60" />
+    </a>
+  </div>
+  
+  <br>
+  
+  <div>
+    <a href="https://linkedin.com/in/aryanthakare">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/Aryon02">
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/aryanthakare">
+      <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="mailto:aryanthakare2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -229,7 +208,7 @@ const aryanThakare = {
 
 <div align="center">
    <!-- Visitor Counter -->
-  <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" width="50%" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" width="35%" alt="Visitor Count" />
   <!-- Enhanced Snake Animation -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" /> 
 </div>
