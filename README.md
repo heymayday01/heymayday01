@@ -1,7 +1,3 @@
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" style="border-radius: 100%; border: 4px solid #58A6FF;" />
-</div>
 <!--========================== HERO SECTION =========================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=ARYAN+THAKARE;KERNEL+SORCERER;PERFORMANCE+ALCHEMIST" />
