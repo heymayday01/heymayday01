@@ -68,23 +68,12 @@ const aryanThakare = {
 
 </td>
 <td valign="top" width="50%">
-
 <!-- Enhanced GIF with better positioning -->
 <div align="center">
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="border-radius: 50%; border: 4px solid #58A6FF;" />
   <br><br>
-  
-  <!-- Quick Stats Cards -->
-  **⚡ Quick Stats**
-  
-  🔥 **5+** Years of Kernel Development  
-  🚀 **50+** Performance Optimizations  
-  🛠️ **20+** Custom ROM Contributions  
-  🎯 **95%** Uptime on Production Systems  
-  📊 **40%** Average Performance Gains  
 </div>
-
 </td>
   </tr>
 </table>
@@ -105,13 +94,10 @@ const aryanThakare = {
 <div align="center">
 
 ### 🔥 Core Systems & Kernel
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,linux,vim,neovim&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,vim,neovim&theme=dark&perline=8" />
 
 ### ⚡ Development & Frameworks  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tensorflow,pytorch,docker,kubernetes,git,github&theme=dark&perline=8" />
-
-### 🛠️ Tools & Performance
-<img src="https://skillicons.dev/icons?i=androidstudio,gradle,cmake,powershell,regex,sqlite,redis,nginx&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tensorflow,pytorch,docker,github&theme=dark&perline=8" />
 
 ### 🎯 Specialized Technologies
 <img src="https://img.shields.io/badge/KernelSU-FF6B35?style=for-the-badge&logo=android&logoColor=white" />
@@ -120,46 +106,9 @@ const aryanThakare = {
 <img src="https://img.shields.io/badge/Snapdragon-1976D2?style=for-the-badge&logo=qualcomm&logoColor=white" />
 <img src="https://img.shields.io/badge/eBPF-FF6B35?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
-
-</div>
-
-<!-- Enhanced GitHub Stats -->
-<div align="center">
-  
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-    <b>📊 Performance Metrics</b>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  </h2>
-</div>
-
-<!-- Stats Grid -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heymayday01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heymayday01&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&background=0d1117" width="48%" />
 </div>
 
 <br>
-
-<!-- Language and Activity Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymayday01&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=12&card_width=600" />
-</div>
-
-<br>
-
-<!-- Enhanced Connect Section with Modern Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-  
-  <!-- Modern Section Header with Gradient Text Effect -->
-  <h1>
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+Connect+%26+Build+the+Future;Ready+to+Collaborate%3F;Let's+Create+Something+Amazing!" />
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-  </h1>
-</div>
-
 <!-- Clean Minimal Social Links -->
 <div align="center">
   <div>
