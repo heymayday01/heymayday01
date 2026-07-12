@@ -3,10 +3,10 @@
 <!-- Clean header — no flashy SVG, just typography -->
 <h1>Aryan Thakare</h1>
 
-<p><em>Android Kernel &amp; Performance Engineer</em></p>
+<p><em>Systems Engineer — Kernel · Full-Stack Web · Applied AI</em></p>
 
 <!-- Single subtle typing line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=420&height=24&lines=KernelSU+%C2%B7+Magisk+%C2%B7+AOSP+%C2%B7+Snapdragon+888;DVFS+%C2%B7+CPU+Governors+%C2%B7+AI+Schedulers;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+Rust+%C2%B7+Assembly;Based+in+India+%C2%B7+IST+%28UTC%2B5%3A30%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=24&lines=KernelSU+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Multi-Agent+LLM;Android+Kernel+%C2%B7+React+%C2%B7+LangGraph+%C2%B7+Gemini;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Based+in+India+%C2%B7+IST+%28UTC%2B5%3A30%29" alt="Typing SVG" />
 
 <!-- Clean live stats — single row, single accent color -->
 <p>
@@ -22,11 +22,15 @@
 
 ## About
 
-I build performance-focused kernel modules and AI-driven system optimizations for Android devices. My work centers on Snapdragon 888 Xiaomi hardware, where I tune DVFS, CPU governors, and I/O schedulers to extract longer battery life without trading away frame rates.
+I'm a systems engineer working across three areas that rarely live in the same person's head: **Android kernel performance**, **full-stack web applications**, and **applied AI / LLM systems**. The throughline is performance and lower-layer thinking — whether that means tuning DVFS on a Snapdragon 888, optimizing a Next.js serverless bundle, or wiring a multi-agent orchestration graph.
 
-Currently focused on **KernelSU** module development, **HyperOS** system architecture, and integrating lightweight reinforcement-learning agents into on-device CPU/GPU governors. I write mostly in C, C++, and Python — with Rust for newer kernel-side experiments.
+**Kernel &amp; Android systems.** I build KernelSU / Magisk modules that ship adaptive performance profiles for Xiaomi devices. My recent work put a small on-device reinforcement-learning agent in charge of CPU/GPU governor selection on Snapdragon 888 hardware, achieving a 30% battery-life gain with no measurable frame-rate loss. I also maintain a serverless HyperOS ROM-porting pipeline that runs entirely on GitHub Actions.
 
-Open to collaboration on kernel work, performance engineering, and applied ML in system software.
+**Full-stack web.** I ship production web apps with Next.js 16, TypeScript, Tailwind CSS, Prisma, and Supabase. The largest is the AVYSTRA Consulting marketing site and OGI assessment platform — a single-page app with GSAP animations, automated email delivery, Excel export, and a Postgres-backed submission flow. I've also built a FastAPI + React 19 finance tracker with Gemini-powered transaction analysis, a real-time Socket.io chat app, and a client-side QR generator.
+
+**Applied AI.** I build LLM systems that actually ship: an autonomous X (Twitter) content engine that generates and publishes AI/tech threads on a cron, and a multi-agent &quot;AI Company&quot; blueprint where an AI Product Manager orchestrates Engineer / Designer / Marketer / QA / Ops agents with shared RAG memory, sandboxed execution, and human-in-the-loop approval gates.
+
+I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer kernel-side experiments. Open to collaboration on systems software, performance engineering, and applied ML.
 
 ---
 
@@ -60,18 +64,34 @@ Open to collaboration on kernel work, performance engineering, and applied ML in
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,bash,linux,vim,neovim&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tensorflow,pytorch,docker,github,ts,js&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://img.shields.io/badge/KernelSU-58A6FF?style=flat-square&logo=android&logoColor=white" />
+
+**Languages &amp; Systems**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,ts,bash,linux,vim&theme=dark&perline=8" />
+
+**Web &amp; Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,postgres,docker&theme=dark&perline=8" />
+
+**AI / ML &amp; Tooling**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,github,git,neovim&theme=dark&perline=8" />
+
+**Specialized**
+
+<img src="https://img.shields.io/badge/KernelSU-58A6FF?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Magisk-58A6FF?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/AOSP-58A6FF?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Snapdragon_888-58A6FF?style=flat-square&logo=qualcomm&logoColor=white" />
-  <img src="https://img.shields.io/badge/eBPF-58A6FF?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/QEMU-58A6FF?style=flat-square&logo=qemu&logoColor=white" />
   <img src="https://img.shields.io/badge/HyperOS-58A6FF?style=flat-square&logo=xiaomi&logoColor=white" />
   <img src="https://img.shields.io/badge/DVFS-58A6FF?style=flat-square&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-58A6FF?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-58A6FF?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-58A6FF?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-58A6FF?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-58A6FF?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-58A6FF?style=flat-square&logo=langchain&logoColor=white" />
+
 </div>
 
 ---
@@ -171,9 +191,9 @@ Open to collaboration on kernel work, performance engineering, and applied ML in
 
 **Learning** — eBPF observability, Rust in kernel space, MLIR compiler internals.
 
-**Building** — KernelSU AI optimization module, HyperOS serverless ROM porter, Snapdragon 888 performance tuning.
+**Building** — KernelSU AI optimization module, HyperOS serverless ROM porter, multi-agent LLM orchestration systems, and production Next.js apps with automated email and data-export pipelines.
 
-**Milestones** — 2024: +30% battery life with 0% performance loss. 2023: Custom GPU driver for Mali/Adreno. 2022: First KernelSU module with an AI-driven CPU scheduler.
+**Milestones** — 2024: +30% battery life with 0% performance loss on Snapdragon 888 via adaptive AI governor. 2023: Custom GPU driver for Mali/Adreno with hand-tuned scheduler hooks. 2022: First KernelSU module with an AI-driven CPU scheduler. Shipped production AVYSTRA Consulting site at avystra.co.in.
 
 ---
 
