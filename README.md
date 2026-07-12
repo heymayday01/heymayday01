@@ -176,8 +176,8 @@ $ _
       </h3>
       <p align="left">Serverless GitHub Actions pipeline that auto-ports HyperOS ROMs from FUXI/NUWA/ISHTAR to HAYDN (Mi 11X Pro / K40 Pro+ / Mi 11i). Fork → trigger → download flashable ROM.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/HyperOS_Action_builder/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/HyperOS_Action_builder?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/HyperOS_Action_builder?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/HyperOS_Action_builder/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/HyperOS_Action_builder?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/HyperOS_Action_builder?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/github/languages/top/heymayday01/HyperOS_Action_builder?style=flat-square&color=A371F7&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Platform-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117" />
       </p>
@@ -190,8 +190,8 @@ $ _
       </h3>
       <p align="left">KernelSU / Magisk module with on-device reinforcement-learning CPU/GPU governor for Snapdragon 888 Xiaomi devices. +30% battery, 0% performance loss.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/SoC-Snapdragon_888-1976D2?style=flat-square&logo=qualcomm&logoColor=white&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Requires-Root-EA4335?style=flat-square&labelColor=0D1117" />
       </p>
@@ -210,8 +210,8 @@ $ _
       </h3>
       <p align="left">Autonomous X (Twitter) content engine — generate, schedule, and publish AI-driven threads with zero human intervention. GitHub Actions + Hugging Face + Tweepy.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/Ai-x-content-automator/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Ai-x-content-automator?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Ai-x-content-automator?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/Ai-x-content-automator/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Ai-x-content-automator?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Ai-x-content-automator?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/LLM-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117" />
       </p>
@@ -224,8 +224,8 @@ $ _
       </h3>
       <p align="left">Company-in-a-box: AI Product Manager orchestrating multiple AI employees (Engineers, Designers, Marketers, QA, Ops) with RAG memory, sandboxed execution, and human-in-the-loop approval.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/AI-Company/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/AI-Company?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/AI-Company?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/AI-Company/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/AI-Company?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/AI-Company?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Vector_DB-Chroma-FF6B35?style=flat-square&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Orchestrator-LangGraph-3FB950?style=flat-square&labelColor=0D1117" />
       </p>
@@ -244,8 +244,8 @@ $ _
       </h3>
       <p align="left">Full-stack AI-powered personal finance tracker. FastAPI + PostgreSQL + Google Gemini + React 19 + glassmorphism UI. AI reads your transactions and surfaces personalised insights.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/ai-finance-tracker/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/ai-finance-tracker?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/ai-finance-tracker?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/ai-finance-tracker/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/ai-finance-tracker?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/ai-finance-tracker?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/github/languages/top/heymayday01/ai-finance-tracker?style=flat-square&color=A371F7&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" />
       </p>
@@ -258,8 +258,8 @@ $ _
       </h3>
       <p align="left">Premium marketing site + OGI assessment platform for AVYSTRA Consulting Pvt Ltd. Next.js 16, Tailwind 4, GSAP, Prisma, Supabase, automated email + Excel export. Production-deployed.</p>
       <p align="left">
-        <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=%E2%AD%90&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Live-avystra.co.in-3FB950?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Stack-Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117" />
       </p>
@@ -324,7 +324,7 @@ $ _
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:aryanthakare2003@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216121986-3e4db49e-8c42-4813-9b27-d59825b82645.gif" width="56" height="56" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="56" />
   </a>
 </div>
 
