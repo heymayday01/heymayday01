@@ -1,8 +1,6 @@
 <!-- ========================== MODERN HEADER ========================== -->
 <div align="center">
 
-<!-- Sleek transparent gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=ARYAN%20THAKARE&height=80&fontSize=52&fontFamily=Fira%20Code&fontAlignY=35&desc=Android%20Kernel%20%26%20Performance%20Engineer&descAlignY=55&descSize=14&descColor=8B949E" width="100%" alt="Aryan Thakare" />
 
 <!-- Animated typing line -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%F0%9F%94%A5+Squeezing+silicon+since+2022;%E2%9A%A1+Kernels+%7C+Governors+%7C+AI+schedulers;%F0%9F%9B%A1%EF%B8%8F+KernelSU+%E2%80%A2+Magisk+%E2%80%A2+AOSP;%F0%9F%87%AE%F0%9F%87%B3+Based+in+India+%7C+IST" alt="Typing SVG" />
