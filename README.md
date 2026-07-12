@@ -115,7 +115,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>Serverless GitHub Actions pipeline that auto-ports HyperOS ROMs from FUXI/NUWA/ISHTAR to HAYDN (Mi 11X Pro / K40 Pro+ / Mi 11i). Fork, trigger a workflow, download a flashable ROM — no local toolchain required.</p>
       <p>
         <a href="https://github.com/heymayday01/HyperOS_Action_builder/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/HyperOS_Action_builder?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/HyperOS_Action_builder?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/HyperOS_Action_builder?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/github/languages/top/heymayday01/HyperOS_Action_builder?style=flat-square&color=58A6FF&labelColor=0D1117" />
       </p>
     </td>
@@ -128,7 +128,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>KernelSU/Magisk module with an on-device reinforcement-learning CPU/GPU governor for Snapdragon 888 Xiaomi devices. +30% battery life with 0% performance loss in daily-driver workloads.</p>
       <p>
         <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/SoC-SD888-58A6FF?style=flat-square&logo=qualcomm&logoColor=white&labelColor=0D1117" />
       </p>
     </td>
@@ -143,7 +143,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>Autonomous X (Twitter) content engine — generate, schedule, and publish AI-driven threads with zero human intervention. GitHub Actions cron + Hugging Face inference + Tweepy publishing.</p>
       <p>
         <a href="https://github.com/heymayday01/Ai-x-content-automator/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Ai-x-content-automator?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Ai-x-content-automator?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/Ai-x-content-automator?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/CI-GitHub_Actions-58A6FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117" />
       </p>
     </td>
@@ -156,7 +156,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>Multi-agent system where an AI Product Manager orchestrates AI employees (Engineers, Designers, Marketers, QA, Ops) with RAG memory, sandboxed execution, and human-in-the-loop approval gates.</p>
       <p>
         <a href="https://github.com/heymayday01/AI-Company/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/AI-Company?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/AI-Company?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/AI-Company?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Orchestrator-LangGraph-58A6FF?style=flat-square&labelColor=0D1117" />
       </p>
     </td>
@@ -171,7 +171,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>Full-stack AI-powered personal finance tracker. FastAPI + PostgreSQL + Google Gemini + React 19. The LLM reads your transaction history and surfaces personalized financial insights.</p>
       <p>
         <a href="https://github.com/heymayday01/ai-finance-tracker/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/ai-finance-tracker?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/ai-finance-tracker?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/ai-finance-tracker?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/github/languages/top/heymayday01/ai-finance-tracker?style=flat-square&color=58A6FF&labelColor=0D1117" />
       </p>
     </td>
@@ -184,12 +184,16 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
       <p>Production marketing site + OGI assessment platform for AVYSTRA Consulting Pvt Ltd. Next.js 16, Tailwind 4, GSAP, Prisma, Supabase, automated email + Excel export. Deployed at avystra.co.in.</p>
       <p>
         <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=%E2%98%85&color=58A6FF&labelColor=0D1117" /></a>
-        <img src="https://img.shields.io/github/forks/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=%F0%9F%8D%B4&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/forks/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=Forks&color=58A6FF&labelColor=0D1117" />
         <img src="https://img.shields.io/badge/Live-avystra.co.in-58A6FF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
       </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/heymayday01?tab=repositories"><sub><code>// view all repositories &rarr;</code></sub></a>
+</div>
 
 <img src="divider.svg" width="100%" height="2" />
 
@@ -205,7 +209,17 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`06`</sub> &nbsp; Connect
+## <sub>`06`</sub> &nbsp; Contribution Snake
+
+<p><sub><code>// auto-generated from contribution grid</code></sub></p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<img src="divider.svg" width="100%" height="2" />
+
+## <sub>`07`</sub> &nbsp; Connect
 
 <p><sub><code>// links · email · socials</code></sub></p>
 
