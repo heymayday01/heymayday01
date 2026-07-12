@@ -1,13 +1,13 @@
 <!-- ========================== MODERN HEADER ========================== -->
-<!-- Clean gradient banner with sleek typography -->
 <div align="center">
 
+<!-- Sleek transparent gradient header -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=ARYAN%20THAKARE&height=80&fontSize=52&fontFamily=Fira%20Code&fontAlignY=35&desc=Android%20Kernel%20%26%20Performance%20Engineer&descAlignY=55&descSize=14&descColor=8B949E" width="100%" alt="Aryan Thakare" />
 
-<!-- Animated typing line — JetBrains Mono, smaller, elegant -->
+<!-- Animated typing line -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%F0%9F%94%A5+Squeezing+silicon+since+2022;%E2%9A%A1+Kernels+%7C+Governors+%7C+AI+schedulers;%F0%9F%9B%A1%EF%B8%8F+KernelSU+%E2%80%A2+Magisk+%E2%80%A2+AOSP;%F0%9F%87%AE%F0%9F%87%B3+Based+in+India+%7C+IST" alt="Typing SVG" />
 
-<!-- Status row — modern pill badges -->
+<!-- Status row — pill badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open_To_Collab-58A6FF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Focus-KernelSU_AI-FF6B35?style=flat-square&logo=android&logoColor=white&labelColor=0D1117" />
@@ -15,9 +15,17 @@
   <img src="https://img.shields.io/badge/Location-India-3FB950?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" />
 </p>
 
+<!-- Profile views + followers + stars — all live, all working -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=heymayday01&label=Views&color=58A6FF&style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/heymayday01?label=Followers&style=flat-square&color=FF6B35&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/heymayday01?label=Stars&style=flat-square&color=A371F7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/repos/heymayday01?label=Repos&style=flat-square&color=3FB950&labelColor=0D1117" />
+</p>
+
 </div>
 
-<!-- Thin modern divider — gradient line, no rainbow -->
+<!-- Thin modern divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
@@ -64,19 +72,16 @@ $ _
 <td valign="top" width="45%">
 <div align="center">
 
-<!-- Modern animated coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="240" style="border-radius: 12px; border: 2px solid #30363D;" />
 
 <br><br>
 
-<!-- Live status badges in a tight stack -->
-<a href="https://github.com/heymayday01?tab=repositories"><img src="https://img.shields.io/badge/Repos-11-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<!-- Compact live status -->
+<a href="https://github.com/heymayday01?tab=repositories"><img src="https://img.shields.io/badge/Repos-Live_Count-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <br>
-<a href="https://github.com/heymayday01?tab=followers"><img src="https://img.shields.io/badge/Followers-Let's_check-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/heymayday01?tab=followers"><img src="https://img.shields.io/badge/Followers-Live_Count-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <br>
-<a href="https://github.com/heymayday01?tab=stars"><img src="https://img.shields.io/badge/Stars-Live_count-A371F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-<br>
-<a href="https://komarev.com/ghpvc/?username=heymayday01"><img src="https://komarev.com/ghpvc/?username=heymayday01&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/heymayday01?tab=stars"><img src="https://img.shields.io/badge/Stars-Live_Count-A371F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 </div>
 </td>
@@ -101,7 +106,7 @@ $ _
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heymayday01&theme=github_dark" width="100%" alt="Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heymayday01&theme=github_dark" width="100%" alt="Languages by Repos" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heymayday01&theme=github_dark" width="100%" alt="Commit Languages" />
@@ -117,7 +122,7 @@ $ _
   </tr>
 </table>
 
-<!-- Contribution activity graph — full width, custom colors -->
+<!-- Contribution activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&theme=react-dark&bg_color=0D1117&color=58A6FF&line=FF6B35&point=C9D1D9&area=true&area_color=58A6FF33&hide_border=true&height=300&custom_title=Contribution%20Rhythm%20%E2%80%A2%20Last%206%20Months" width="95%" alt="Contribution Graph" />
 </div>
@@ -151,35 +156,116 @@ $ _
 
 </div>
 
-<!-- ========================== FEATURED PROJECTS ========================== -->
+<!-- ========================== FEATURED PROJECTS (CUSTOM CARDS) ========================== -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
   <b>featured.builds</b>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
 </h2>
 
-<div align="center">
-  <a href="https://github.com/heymayday01/HyperOS_Action_builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=HyperOS_Action_builder&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=Adaptive-Ai-optimiser-Kernelsu-Magisk-module&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <br>
-  <a href="https://github.com/heymayday01/Ai-x-content-automator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=Ai-x-content-automator&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <a href="https://github.com/heymayday01/AI-Company">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=AI-Company&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <br>
-  <a href="https://github.com/heymayday01/ai-finance-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=ai-finance-tracker&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heymayday01&repo=Avystra-Operations-Systems-Consulting-&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9&border_color=30363D" />
-  </a>
-</div>
+<p align="center"><em>Live stats — always renders, never breaks.</em></p>
+
+<!-- Row 1 -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/HyperOS_Action_builder">
+          <img src="https://img.shields.io/badge/⚡_HyperOS_Action_Builder-FF6700?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">Serverless GitHub Actions pipeline that auto-ports HyperOS ROMs from FUXI/NUWA/ISHTAR to HAYDN (Mi 11X Pro / K40 Pro+ / Mi 11i). Fork → trigger → download flashable ROM.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/HyperOS_Action_builder/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/HyperOS_Action_builder?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/HyperOS_Action_builder?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/heymayday01/HyperOS_Action_builder?style=flat-square&color=A371F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Platform-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module">
+          <img src="https://img.shields.io/badge/🧬_Adaptive_AI_Optimiser-58A6FF?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">KernelSU / Magisk module with on-device reinforcement-learning CPU/GPU governor for Snapdragon 888 Xiaomi devices. +30% battery, 0% performance loss.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Adaptive-Ai-optimiser-Kernelsu-Magisk-module?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/SoC-Snapdragon_888-1976D2?style=flat-square&logo=qualcomm&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Requires-Root-EA4335?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Row 2 -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/Ai-x-content-automator">
+          <img src="https://img.shields.io/badge/🤖_AI-X_Content_Automator-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">Autonomous X (Twitter) content engine — generate, schedule, and publish AI-driven threads with zero human intervention. GitHub Actions + Hugging Face + Tweepy.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/Ai-x-content-automator/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Ai-x-content-automator?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Ai-x-content-automator?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/LLM-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/AI-Company">
+          <img src="https://img.shields.io/badge/🏢_AI_Company-A371F7?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">Company-in-a-box: AI Product Manager orchestrating multiple AI employees (Engineers, Designers, Marketers, QA, Ops) with RAG memory, sandboxed execution, and human-in-the-loop approval.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/AI-Company/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/AI-Company?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/AI-Company?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Vector_DB-Chroma-FF6B35?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Orchestrator-LangGraph-3FB950?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Row 3 -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/ai-finance-tracker">
+          <img src="https://img.shields.io/badge/💸_FinanceAI_Tracker-3FB950?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">Full-stack AI-powered personal finance tracker. FastAPI + PostgreSQL + Google Gemini + React 19 + glassmorphism UI. AI reads your transactions and surfaces personalised insights.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/ai-finance-tracker/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/ai-finance-tracker?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/ai-finance-tracker?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/github/languages/top/heymayday01/ai-finance-tracker?style=flat-square&color=A371F7&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-">
+          <img src="https://img.shields.io/badge/🏛️_AVYSTRA_Consulting-B8924E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
+        </a>
+      </h3>
+      <p align="left">Premium marketing site + OGI assessment platform for AVYSTRA Consulting Pvt Ltd. Next.js 16, Tailwind 4, GSAP, Prisma, Supabase, automated email + Excel export. Production-deployed.</p>
+      <p align="left">
+        <a href="https://github.com/heymayday01/Avystra-Operations-Systems-Consulting-/stargazers"><img src="https://img.shields.io/github/stars/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=⭐&color=FF6B35&labelColor=0D1117" /></a>
+        <img src="https://img.shields.io/github/forks/heymayday01/Avystra-Operations-Systems-Consulting-?style=flat-square&label=🍴&color=58A6FF&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Live-avystra.co.in-3FB950?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Stack-Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ========================== CURRENTLY ========================== -->
 <h2 align="center">
@@ -191,19 +277,19 @@ $ _
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="33%">
-      <sub>📚 LEARNING</sub><br>
+      <sub>📚 LEARNING</sub><br><br>
       <img src="https://img.shields.io/badge/eBPF-FF6B35?style=flat-square&logo=linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Rust_Kernel-FF6B35?style=flat-square&logo=rust&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MLIR-FF6B35?style=flat-square&logo=llvm&logoColor=white" />
     </td>
     <td align="center" valign="middle" width="34%">
-      <sub>🎯 BUILDING</sub><br>
+      <sub>🎯 BUILDING</sub><br><br>
       <img src="https://img.shields.io/badge/KernelSU_AI_Module-58A6FF?style=flat-square&logo=android&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/HyperOS_Builder-58A6FF?style=flat-square&logo=xiaomi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Snapdragon_888_Tuning-58A6FF?style=flat-square&logo=qualcomm&logoColor=white" />
     </td>
     <td align="center" valign="middle" width="33%">
-      <sub>🏆 MILESTONES</sub><br>
+      <sub>🏆 MILESTONES</sub><br><br>
       <b>2024</b> 🔋 +30% battery<br>
       <b>2023</b> 🎨 Custom GPU driver<br>
       <b>2022</b> 🤖 First AI KernelSU<br>
@@ -265,11 +351,7 @@ $ _
 <!-- ========================== FOOTER ========================== -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<div align="center">
-  <img src="https://count.getloli.com/get/@aryanthakare?theme=rule34" width="40%" alt="Visitor Count" />
-</div>
-
-<!-- Snake animation -->
+<!-- Snake animation (always works) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
