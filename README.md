@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- Custom mesh-gradient banner -->
-<img src="banner.svg" width="100%" alt="Aryan Thakare — Systems Engineer" />
+<!-- Typing SVG — keep the subtle animated tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=32&lines=Systems+Engineer+%E2%80%94+Kernel+%C2%B7+Full-Stack+Web+%C2%B7+Applied+AI;KernelSU+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Multi-Agent+LLM;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Snapdragon+888+%C2%B7+DVFS+%C2%B7+AI+Governors" alt="Typing SVG" />
 
-<!-- Subtle typing line — JetBrains Mono, gradient-colored -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=24&lines=KernelSU+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Multi-Agent+LLM;Android+Kernel+%C2%B7+React+%C2%B7+LangGraph+%C2%B7+Gemini;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Snapdragon+888+%C2%B7+DVFS+%C2%B7+AI+Governors" alt="Typing SVG" />
-
-<!-- Clean live stats — single row, gradient-aware -->
+<!-- Clean live stats — single row, single accent color -->
 <p>
   <a href="https://github.com/heymayday01?tab=followers"><img src="https://img.shields.io/github/followers/heymayday01?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
   <a href="https://github.com/heymayday01?tab=stars"><img src="https://img.shields.io/github/stars/heymayday01?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
@@ -34,36 +31,35 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`02`</sub> &nbsp; GitHub Stats
+## <sub>`02`</sub> &nbsp; `$ whoami --verbose`
 
-<p><sub><code>// live · auto-updating</code></sub></p>
+<p><sub><code>// living terminal — self-animating SVGs, no external services</code></sub></p>
 
-<table align="center">
+<div align="center">
+
+<!-- Self-drawing ASCII portrait + terminal-style info panel -->
+<table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heymayday01&theme=github_dark" width="100%" alt="Profile Details" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=heymayday01&theme=dark&background=0D1117&ring=58A6FF&fire=A371F7&currLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D&border=30363D" width="100%" alt="Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heymayday01&theme=github_dark" width="100%" alt="Languages by Repos" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heymayday01&theme=github_dark" width="100%" alt="Languages by Commits" />
-    </td>
+    <td valign="top" align="center"><img src="portrait.svg" width="360" alt="ASCII portrait" /></td>
+    <td valign="top" align="center"><img src="sysinfo.svg" width="460" alt="System info panel" /></td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heymayday01&theme=react-dark&bg_color=0D1117&color=58A6FF&line=A371F7&point=C9D1D9&area=true&area_color=58A6FF22&hide_border=true&height=260&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph" />
 </div>
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`03`</sub> &nbsp; Tech Stack
+## <sub>`03`</sub> &nbsp; `$ cat contributions.log`
+
+<p><sub><code>// auto-refreshed daily via GitHub Actions · no API token required</code></sub></p>
+
+<div align="center">
+  <img src="graph.svg" width="820" alt="Contribution graph" />
+</div>
+
+<img src="divider.svg" width="100%" height="2" />
+
+## <sub>`04`</sub> &nbsp; Tech Stack
 
 <p><sub><code>// languages · frameworks · specialized</code></sub></p>
 
@@ -100,7 +96,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`04`</sub> &nbsp; Featured Projects
+## <sub>`05`</sub> &nbsp; Featured Projects
 
 <p><sub><code>// shipped work · live stats</code></sub></p>
 
@@ -197,7 +193,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`05`</sub> &nbsp; Currently
+## <sub>`06`</sub> &nbsp; Currently
 
 <p><sub><code>// learning · building · milestones</code></sub></p>
 
@@ -209,7 +205,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`06`</sub> &nbsp; Contribution Snake
+## <sub>`07`</sub> &nbsp; Contribution Snake
 
 <p><sub><code>// auto-generated from contribution grid</code></sub></p>
 
@@ -219,7 +215,7 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`07`</sub> &nbsp; Connect
+## <sub>`08`</sub> &nbsp; Connect
 
 <p><sub><code>// links · email · socials</code></sub></p>
 

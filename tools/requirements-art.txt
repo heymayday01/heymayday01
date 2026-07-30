@@ -1,0 +1,3 @@
+# Portrait art dependencies (only needed locally when you redo your portrait)
+Pillow
+numpy
