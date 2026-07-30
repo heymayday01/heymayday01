@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 240" fill="none" width="520" height="240">
+  <defs>
+    <linearGradient id="nowBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="nowHeader" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="nowGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="240" fill="#0D1117" rx="12" ry="12"/>
+  <rect x="0.5" y="0.5" width="519" height="239" fill="none" stroke="url(#nowBorder)" stroke-width="1" rx="12" ry="12"/>
+
+  <!-- Header bar -->
+  <rect width="520" height="32" fill="url(#nowHeader)" rx="12" ry="12"/>
+  <rect y="31" width="520" height="1" fill="#58A6FF" fill-opacity="0.25"/>
+
+  <!-- Traffic lights -->
+  <circle cx="18" cy="16" r="5" fill="#FF5F56"/>
+  <circle cx="36" cy="16" r="5" fill="#FFBD2E"/>
+  <circle cx="54" cy="16" r="5" fill="#27C93F"/>
+
+  <!-- Title -->
+  <text x="260" y="20" font-family="JetBrains Mono, monospace" font-size="11" fill="#7D8590" text-anchor="middle">
+    aryan@now: ~/active
+  </text>
+
+  <!-- Terminal content — typed out line by line -->
+  <!-- Line 1: prompt -->
+  <g>
+    <text x="20" y="60" font-family="JetBrains Mono, monospace" font-size="13" fill="#A371F7">$</text>
+    <text x="36" y="60" font-family="JetBrains Mono, monospace" font-size="13" fill="#E6EDF3">
+      <animate attributeName="opacity" from="0" to="0" dur="0.3s" begin="0s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.05s" begin="0.3s" fill="freeze"/>
+      cat now.json
+    </text>
+    <!-- Cursor blink after command -->
+    <rect x="124" y="48" width="8" height="14" fill="#58A6FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Line 2: JSON opening -->
+  <text x="20" y="84" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1s" fill="freeze"/>
+    {
+  </text>
+
+  <!-- Line 3: building -->
+  <text x="20" y="104" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.2s" fill="freeze"/>
+    <tspan fill="#A371F7">  "building"</tspan><tspan fill="#7D8590">: </tspan><tspan fill="#A5D6FF">"Adaptive AI kernel governor"</tspan><tspan fill="#7D8590">,</tspan>
+  </text>
+
+  <!-- Line 4: learning -->
+  <text x="20" y="124" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.4s" fill="freeze"/>
+    <tspan fill="#A371F7">  "learning"</tspan><tspan fill="#7D8590">: </tspan><tspan fill="#A5D6FF">"eBPF · Rust kernel · MLIR"</tspan><tspan fill="#7D8590">,</tspan>
+  </text>
+
+  <!-- Line 5: stack -->
+  <text x="20" y="144" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.6s" fill="freeze"/>
+    <tspan fill="#A371F7">  "stack"</tspan><tspan fill="#7D8590">: </tspan><tspan fill="#A5D6FF">"C · C++ · Python · TS · Rust"</tspan><tspan fill="#7D8590">,</tspan>
+  </text>
+
+  <!-- Line 6: status -->
+  <text x="20" y="164" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.8s" fill="freeze"/>
+    <tspan fill="#A371F7">  "status"</tspan><tspan fill="#7D8590">: </tspan><tspan fill="#7D6FF0">"open to collabs"</tspan>
+  </text>
+
+  <!-- Line 7: JSON closing + cursor -->
+  <text x="20" y="184" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590">
+    <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2s" fill="freeze"/>
+    }
+  </text>
+  <rect x="32" y="172" width="8" height="14" fill="#58A6FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom hint -->
+  <text x="260" y="220" font-family="JetBrains Mono, monospace" font-size="10" fill="#484F58" text-anchor="middle">
+    // auto-typed on every page load
+  </text>
+</svg>

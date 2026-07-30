@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" fill="none" width="1200" height="360">
+  <defs>
+    <!-- Mesh gradient orbs -->
+    <radialGradient id="orb1" cx="15%" cy="20%" r="42%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="85%" cy="80%" r="48%">
+      <stop offset="0%" stop-color="#A371F7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb3" cx="70%" cy="20%" r="30%">
+      <stop offset="0%" stop-color="#79C0FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#79C0FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb4" cx="30%" cy="85%" r="28%">
+      <stop offset="0%" stop-color="#FF7B72" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FF7B72" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+
+    <!-- Glass card fill -->
+    <linearGradient id="glassFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Card border gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#A371F7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Name text gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#F0F6FC"/>
+      <stop offset="70%" stop-color="#79C0FF"/>
+      <stop offset="100%" stop-color="#A371F7"/>
+    </linearGradient>
+
+    <!-- Subtitle gradient -->
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#A371F7"/>
+    </linearGradient>
+
+    <!-- Top accent line gradient -->
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#A371F7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow filter for the status dot -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" fill="#0D1117"/>
+
+  <!-- Mesh orbs -->
+  <rect width="1200" height="360" fill="url(#orb1)"/>
+  <rect width="1200" height="360" fill="url(#orb2)"/>
+  <rect width="1200" height="360" fill="url(#orb3)"/>
+  <rect width="1200" height="360" fill="url(#orb4)"/>
+
+  <!-- Grid overlay -->
+  <rect width="1200" height="360" fill="url(#grid)"/>
+
+  <!-- Glass card (slightly inset) -->
+  <rect x="40" y="40" width="1120" height="280" rx="16" ry="16"
+        fill="url(#glassFill)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Top accent line on the card -->
+  <rect x="40" y="40" width="1120" height="2" rx="1" fill="url(#topLine)"/>
+
+  <!-- Corner accents (Linear-style brackets) -->
+  <path d="M 56 56 L 56 76 M 56 56 L 76 56" stroke="#58A6FF" stroke-width="1.5" stroke-opacity="0.6" fill="none"/>
+  <path d="M 1144 304 L 1144 284 M 1144 304 L 1124 304" stroke="#A371F7" stroke-width="1.5" stroke-opacity="0.6" fill="none"/>
+  <path d="M 1144 56 L 1144 76 M 1144 56 L 1124 56" stroke="#A371F7" stroke-width="1.5" stroke-opacity="0.4" fill="none"/>
+  <path d="M 56 304 L 56 284 M 56 304 L 76 304" stroke="#58A6FF" stroke-width="1.5" stroke-opacity="0.4" fill="none"/>
+
+  <!-- Status indicator (top-left of card content) -->
+  <g filter="url(#glow)">
+    <circle cx="80" cy="100" r="5" fill="#3FB950">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="96" y="104" font-family="JetBrains Mono, monospace" font-size="11" fill="#3FB950" letter-spacing="0.8">
+    available for work
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Top-right metadata -->
+  <text x="1120" y="104" font-family="JetBrains Mono, monospace" font-size="11" fill="#7D8590" text-anchor="end" letter-spacing="0.5">
+    v2026.07 · build 0167cf5
+  </text>
+
+  <!-- Name -->
+  <text x="600" y="200" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="72" font-weight="800" fill="url(#nameGrad)"
+        text-anchor="middle" letter-spacing="-3">
+    Aryan Thakare
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="234" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="500" fill="url(#subGrad)"
+        text-anchor="middle" letter-spacing="0.5">
+    Systems Engineer  —  Kernel  ·  Full-Stack Web  ·  Applied AI
+  </text>
+
+  <!-- Monospace metadata strip -->
+  <text x="600" y="278" font-family="JetBrains Mono, monospace" font-size="12" fill="#7D8590"
+        text-anchor="middle" letter-spacing="0.4">
+    // location: India · IST (UTC+5:30)    // stack: C · C++ · Python · TS · Rust    // focus: kernel · web · ai
+  </text>
+
+  <!-- Bottom accent line -->
+  <rect x="40" y="318" width="1120" height="2" rx="1" fill="url(#topLine)" opacity="0.4"/>
+</svg>

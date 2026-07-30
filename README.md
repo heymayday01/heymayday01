@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- Typing SVG — keep the subtle animated tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=32&lines=Systems+Engineer+%E2%80%94+Kernel+%C2%B7+Full-Stack+Web+%C2%B7+Applied+AI;KernelSU+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Multi-Agent+LLM;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Snapdragon+888+%C2%B7+DVFS+%C2%B7+AI+Governors" alt="Typing SVG" />
+<!-- Hero: glassmorphic card with mesh gradient, typing, pulsing status -->
+<img src="hero.svg" width="100%" alt="Aryan Thakare — Systems Engineer" />
 
-<!-- Clean live stats — single row, single accent color -->
-<p>
-  <a href="https://github.com/heymayday01?tab=followers"><img src="https://img.shields.io/github/followers/heymayday01?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
-  <a href="https://github.com/heymayday01?tab=stars"><img src="https://img.shields.io/github/stars/heymayday01?label=Stars&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
-  <a href="https://github.com/heymayday01?tab=repositories"><img src="https://img.shields.io/github/repos/heymayday01?label=Repos&style=flat-square&color=58A6FF&labelColor=0D1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=heymayday01&label=Profile%20views&style=flat-square&color=58A6FF&labelColor=0D1117" />
-</p>
+<!-- Subtle typing tagline below hero -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=24&lines=KernelSU+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Multi-Agent+LLM;Android+Kernel+%C2%B7+React+%C2%B7+LangGraph+%C2%B7+Gemini;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Rust;Snapdragon+888+%C2%B7+DVFS+%C2%B7+AI+Governors" alt="Typing SVG" />
 
 </div>
 
@@ -35,27 +30,28 @@ I write mostly in **Python, TypeScript, C, and C++**, with **Rust** for newer ke
 
 <p><sub><code>// living terminal — self-animating SVGs, no external services</code></sub></p>
 
-<div align="center">
-
-<!-- Self-drawing ASCII portrait + terminal-style info panel -->
-<table>
+<!-- BENTO ROW 1: portrait + sysinfo + now -->
+<table align="center">
   <tr>
-    <td valign="top" align="center"><img src="portrait.svg" width="360" alt="ASCII portrait" /></td>
-    <td valign="top" align="center"><img src="sysinfo.svg" width="460" alt="System info panel" /></td>
+    <td valign="top" align="center"><img src="portrait.svg" width="340" alt="ASCII portrait" /></td>
+    <td valign="top" align="center"><img src="sysinfo.svg" width="430" alt="System info panel" /></td>
+    <td valign="top" align="center"><img src="card-now.svg" width="480" alt="Now terminal" /></td>
   </tr>
 </table>
 
-</div>
-
 <img src="divider.svg" width="100%" height="2" />
 
-## <sub>`03`</sub> &nbsp; `$ cat contributions.log`
+## <sub>`03`</sub> &nbsp; Live Stats &amp; Contribution Graph
 
 <p><sub><code>// auto-refreshed daily via GitHub Actions · no API token required</code></sub></p>
 
-<div align="center">
-  <img src="graph.svg" width="820" alt="Contribution graph" />
-</div>
+<!-- BENTO ROW 2: stats card + graph -->
+<table align="center">
+  <tr>
+    <td valign="top" align="center" width="32%"><img src="card-stats.svg" width="340" alt="Stats" /></td>
+    <td valign="top" align="center" width="68%"><img src="graph.svg" width="780" alt="Contribution graph" /></td>
+  </tr>
+</table>
 
 <img src="divider.svg" width="100%" height="2" />
 
