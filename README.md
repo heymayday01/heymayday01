@@ -88,21 +88,8 @@ I work across **kernel performance**, **full-stack web**, and **applied AI** —
 
 ## <sub>`04`</sub> &nbsp; Activity
 
-<p><sub><code>// auto-refreshed daily · live slithering snake · auto-generated contribution snake</code></sub></p>
+<p><sub><code>// auto-generated contribution snake · eats the grid daily</code></sub></p>
 
-<div align="center">
-  <img src="graph.svg" width="900" alt="Contribution graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="snake.svg" width="900" alt="Live contribution snake" />
-</div>
-
-<br>
-
-<!-- Auto-generated snake animation from Platane/snk — eats your contribution grid -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900" alt="Contribution snake animation" />
 </div>
