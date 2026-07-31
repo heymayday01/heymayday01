@@ -88,10 +88,16 @@ I work across **kernel performance**, **full-stack web**, and **applied AI** —
 
 ## <sub>`04`</sub> &nbsp; Activity
 
-<p><sub><code>// auto-refreshed daily · no external services</code></sub></p>
+<p><sub><code>// auto-refreshed daily · live slithering snake · no external services</code></sub></p>
 
 <div align="center">
   <img src="graph.svg" width="900" alt="Contribution graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="snake.svg" width="900" alt="Live contribution snake" />
 </div>
 
 <img src="divider.svg" width="100%" height="2" />
@@ -111,5 +117,5 @@ I work across **kernel performance**, **full-stack web**, and **applied AI** —
 <img src="divider.svg" width="100%" height="2" />
 
 <div align="center">
-  <sub><code>// © 2026 Aryan Thakare</code></sub>
+  <sub><code>// © 2026 Aryan Thakare  ·  built with intent  ·  <a href="https://github.com/heymayday01/heymayday01">view source</a></code></sub>
 </div>

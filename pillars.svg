@@ -35,7 +35,8 @@
   </defs>
 
   <!-- ============ CARD 1: KERNEL (left) ============ -->
-  <g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.6s" fill="freeze"/>
     <!-- Card bg -->
     <rect x="0" y="0" width="360" height="320" rx="14" ry="14" fill="url(#fillKernel)" stroke="url(#borderKernel)" stroke-width="1.5"/>
     <!-- Top accent line -->
@@ -89,7 +90,8 @@
   </g>
 
   <!-- ============ CARD 2: WEB (middle) ============ -->
-  <g transform="translate(390, 0)">
+  <g transform="translate(390, 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
     <!-- Card bg -->
     <rect x="0" y="0" width="360" height="320" rx="14" ry="14" fill="url(#fillWeb)" stroke="url(#borderWeb)" stroke-width="1.5"/>
     <!-- Top accent line -->
@@ -138,7 +140,8 @@
   </g>
 
   <!-- ============ CARD 3: AI (right) ============ -->
-  <g transform="translate(780, 0)">
+  <g transform="translate(780, 0)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.6s" fill="freeze"/>
     <!-- Card bg -->
     <rect x="0" y="0" width="360" height="320" rx="14" ry="14" fill="url(#fillAI)" stroke="url(#borderAI)" stroke-width="1.5"/>
     <!-- Top accent line -->
