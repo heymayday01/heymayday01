@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" fill="none" width="1200" height="320">
   <defs>
-    <!-- ============ BACKGROUND ORBS ============ -->
+    <!-- ============ ORBS ============ -->
     <radialGradient id="orbBlue" cx="22%" cy="35%" r="60%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.7"/>
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="orbPurple" cx="78%" cy="65%" r="60%">
-      <stop offset="0%" stop-color="#A371F7" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#A371F7" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="orbCyan" cx="65%" cy="20%" r="40%">
-      <stop offset="0%" stop-color="#79C0FF" stop-opacity="0.4"/>
+      <stop offset="0%" stop-color="#79C0FF" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#79C0FF" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="orbMagenta" cx="30%" cy="80%" r="35%">
-      <stop offset="0%" stop-color="#BC8CFF" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#BC8CFF" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#BC8CFF" stop-opacity="0"/>
     </radialGradient>
 
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
 
     <!-- ============ GLASS ============ -->
@@ -34,15 +34,15 @@
     </linearGradient>
 
     <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#A371F7" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#79C0FF" stop-opacity="0.4"/>
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#A371F7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#79C0FF" stop-opacity="0.35"/>
     </linearGradient>
 
     <linearGradient id="topHighlight" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.25"/>
-      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
 
@@ -51,20 +51,23 @@
       <stop offset="100%" stop-color="#000000" stop-opacity="0.3"/>
     </linearGradient>
 
-    <!-- ============ SHIMMER SWEEP (for the name) ============ -->
-    <linearGradient id="shimmerSweep" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#79C0FF" stop-opacity="0.8"/>
-      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- ============ TEXT GRADIENTS ============ -->
+    <!-- ============ NAME GRADIENT (subtle hue drift via animated stops) ============ -->
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="55%" stop-color="#F0F6FC"/>
-      <stop offset="100%" stop-color="#79C0FF"/>
+      <stop offset="0%" stop-color="#FFFFFF">
+        <animate attributeName="stop-color"
+                 values="#FFFFFF;#F0F6FC;#E6EDF3;#F0F6FC;#FFFFFF"
+                 dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#F0F6FC">
+        <animate attributeName="stop-color"
+                 values="#F0F6FC;#C9D1D9;#BC8CFF;#C9D1D9;#F0F6FC"
+                 dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#79C0FF">
+        <animate attributeName="stop-color"
+                 values="#79C0FF;#A371F7;#58A6FF;#A371F7;#79C0FF"
+                 dur="12s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
 
     <linearGradient id="tagGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -75,55 +78,45 @@
     <filter id="dotGlow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
-
-    <!-- ============ CLIP PATH FOR SHIMMER (name only) ============ -->
-    <clipPath id="nameClip">
-      <rect x="0" y="120" width="1200" height="80"/>
-    </clipPath>
   </defs>
 
   <!-- ============ BACKGROUND ============ -->
   <rect width="1200" height="320" fill="#0D1117"/>
 
-  <!-- ===== DRIFTING ORBS (4 layers, each drifts slowly) ===== -->
-  <!-- Orb 1: Blue, top-left, drifts right-up -->
+  <!-- ===== ORBS (slow, patient drift — sine easing for smoothest loops) ===== -->
   <g>
     <animateTransform attributeName="transform" type="translate"
-                      values="0,0; 40,-20; 0,0"
-                      dur="14s" repeatCount="indefinite"
+                      values="0,0; 30,-15; 0,0"
+                      dur="24s" repeatCount="indefinite"
                       calcMode="spline" keyTimes="0;0.5;1"
-                      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+                      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
     <rect width="1200" height="320" fill="url(#orbBlue)"/>
   </g>
-  <!-- Orb 2: Purple, bottom-right, drifts left-down -->
   <g>
     <animateTransform attributeName="transform" type="translate"
-                      values="0,0; -30,25; 0,0"
-                      dur="17s" repeatCount="indefinite"
+                      values="0,0; -25,20; 0,0"
+                      dur="28s" repeatCount="indefinite"
                       calcMode="spline" keyTimes="0;0.5;1"
-                      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+                      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
     <rect width="1200" height="320" fill="url(#orbPurple)"/>
   </g>
-  <!-- Orb 3: Cyan, top-right, drifts in a circle -->
   <g>
     <animateTransform attributeName="transform" type="translate"
-                      values="0,0; 25,15; 0,30; -25,15; 0,0"
-                      dur="20s" repeatCount="indefinite"
+                      values="0,0; 20,12; 0,25; -20,12; 0,0"
+                      dur="32s" repeatCount="indefinite"
                       calcMode="spline" keyTimes="0;0.25;0.5;0.75;1"
-                      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"/>
+                      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1; 0.45 0 0.55 1"/>
     <rect width="1200" height="320" fill="url(#orbCyan)"/>
   </g>
-  <!-- Orb 4: Magenta, bottom-left, drifts right -->
   <g>
     <animateTransform attributeName="transform" type="translate"
-                      values="0,0; 35,-10; 0,0"
-                      dur="16s" repeatCount="indefinite"
+                      values="0,0; 28,-8; 0,0"
+                      dur="26s" repeatCount="indefinite"
                       calcMode="spline" keyTimes="0;0.5;1"
-                      keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+                      keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
     <rect width="1200" height="320" fill="url(#orbMagenta)"/>
   </g>
 
-  <!-- Grid -->
   <rect width="1200" height="320" fill="url(#grid)"/>
 
   <!-- ============ GLASS CARD ============ -->
@@ -134,49 +127,44 @@
   <rect x="40.5" y="40.5" width="1119" height="239" rx="17.5" ry="17.5"
         fill="none" stroke="url(#glassBorder)" stroke-width="1.5"/>
   <rect x="43" y="43" width="1114" height="234" rx="15" ry="15"
-        fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.15"/>
+        fill="none" stroke="#FFFFFF" stroke-width="0.5" stroke-opacity="0.12"/>
 
-  <!-- ============ STATUS DOT (breathing) ============ -->
+  <!-- ============ STATUS DOT (slow, subtle breath — 4s) ============ -->
   <g>
-    <circle cx="78" cy="92" r="14" fill="#3FB950" opacity="0.2" filter="url(#dotGlow)">
-      <animate attributeName="r" values="10;18;10" dur="2.5s" repeatCount="indefinite"
-               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-      <animate attributeName="opacity" values="0.15;0.4;0.15" dur="2.5s" repeatCount="indefinite"
-               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+    <circle cx="78" cy="92" r="12" fill="#3FB950" opacity="0.18" filter="url(#dotGlow)">
+      <animate attributeName="r" values="10;15;10" dur="4s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+      <animate attributeName="opacity" values="0.12;0.3;0.12" dur="4s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
     </circle>
     <circle cx="78" cy="92" r="5" fill="#3FB950">
-      <animate attributeName="opacity" values="1;0.6;1" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"
+               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
     </circle>
   </g>
   <text x="96" y="96" font-family="JetBrains Mono, monospace" font-size="11" fill="#3FB950" letter-spacing="1">
     available for work
   </text>
 
-  <!-- Version metadata (top-right) -->
   <text x="1122" y="96" font-family="JetBrains Mono, monospace" font-size="10" fill="#7D8590" text-anchor="end" letter-spacing="0.5" opacity="0.7">
-    v2026.07 · build 548974a
+    v2026.07 · build 9adf01e
   </text>
 
-  <!-- ============ NAME (fade-in + continuous shimmer sweep) ============ -->
+  <!-- ============ NAME (expo-out fade-in + subtle hue drift on gradient stops) ============ -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.8s" fill="freeze"/>
-    <!-- Base name -->
+    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="1.2s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
     <text x="600" y="180" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
           font-size="68" font-weight="700" fill="url(#nameGrad)"
           text-anchor="middle" letter-spacing="-2.5">
       Aryan Thakare
     </text>
-    <!-- Shimmer sweep overlay (clipped to name area, sweeps left-to-right every 4s) -->
-    <g clip-path="url(#nameClip)">
-      <rect x="-200" y="120" width="200" height="80" fill="url(#shimmerSweep)" opacity="0.6">
-        <animate attributeName="x" from="-200" to="1400" dur="4s" repeatCount="indefinite" begin="1.5s"/>
-      </rect>
-    </g>
   </g>
 
-  <!-- ============ TAGLINE (fade-in + subtle hue shift) ============ -->
+  <!-- ============ TAGLINE ============ -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
     <text x="600" y="218" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
           font-size="18" font-weight="400" fill="url(#tagGrad)"
           text-anchor="middle" letter-spacing="0.8">
@@ -184,9 +172,10 @@
     </text>
   </g>
 
-  <!-- ============ LOCATION (fade-in) ============ -->
+  <!-- ============ LOCATION ============ -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.9s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
     <text x="600" y="248" font-family="JetBrains Mono, monospace" font-size="11" fill="#7D8590"
           text-anchor="middle" letter-spacing="0.5">
       India · IST

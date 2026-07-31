@@ -97,23 +97,23 @@
     <!-- Top accent line -->
     <rect x="0" y="0" width="360" height="2" rx="1" fill="#58A6FF" opacity="0.8"/>
 
-    <!-- Icon: chip (slow rotation) -->
+    <!-- Icon: chip (subtle scale breath — no rotation) -->
     <g transform="translate(180, 84)">
-      <!-- Breathing glow behind icon -->
-      <circle cx="0" cy="0" r="34" fill="#58A6FF" opacity="0.15" filter="url(#iconGlow)">
-        <animate attributeName="r" values="30;38;30" dur="3.5s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-        <animate attributeName="opacity" values="0.1;0.25;0.1" dur="3.5s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+      <!-- Glow behind icon (slow 6s breath, subtle range) -->
+      <circle cx="0" cy="0" r="34" fill="#58A6FF" opacity="0.12" filter="url(#iconGlow)">
+        <animate attributeName="r" values="31;36;31" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+        <animate attributeName="opacity" values="0.1;0.2;0.1" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </circle>
-      <!-- Chip body (slow rotation) -->
+      <!-- Chip body (very subtle scale breath — 1.0 to 1.03) -->
       <g>
-        <animateTransform attributeName="transform" type="rotate"
-                          values="-8;8;-8" dur="8s" repeatCount="indefinite"
+        <animateTransform attributeName="transform" type="scale"
+                          values="1;1.03;1" dur="6s" repeatCount="indefinite"
                           calcMode="spline" keyTimes="0;0.5;1"
-                          keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+                          keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
         <rect x="-22" y="-22" width="44" height="44" rx="6" ry="6" fill="none" stroke="#58A6FF" stroke-width="2"/>
-        <rect x="-10" y="-10" width="20" height="20" rx="2" ry="2" fill="#58A6FF" opacity="0.3"/>
+        <rect x="-10" y="-10" width="20" height="20" rx="2" ry="2" fill="#58A6FF" opacity="0.25"/>
         <line x1="-22" y1="-12" x2="-30" y2="-12" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
         <line x1="-22" y1="0" x2="-30" y2="0" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
         <line x1="-22" y1="12" x2="-30" y2="12" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
@@ -162,29 +162,32 @@
     <!-- Top accent line -->
     <rect x="0" y="0" width="360" height="2" rx="1" fill="#A371F7" opacity="0.8"/>
 
-    <!-- Icon: browser window (shimmer sweep on content lines) -->
+    <!-- Icon: browser window (slow subtle content pulse) -->
     <g transform="translate(180, 84)">
-      <!-- Breathing glow behind icon -->
-      <circle cx="0" cy="0" r="34" fill="#A371F7" opacity="0.15" filter="url(#iconGlow)">
-        <animate attributeName="r" values="30;38;30" dur="4s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-        <animate attributeName="opacity" values="0.1;0.25;0.1" dur="4s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+      <!-- Glow (6s breath) -->
+      <circle cx="0" cy="0" r="34" fill="#A371F7" opacity="0.12" filter="url(#iconGlow)">
+        <animate attributeName="r" values="31;36;31" dur="6.5s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+        <animate attributeName="opacity" values="0.1;0.2;0.1" dur="6.5s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </circle>
       <rect x="-26" y="-20" width="52" height="40" rx="4" ry="4" fill="none" stroke="#A371F7" stroke-width="2"/>
       <line x1="-26" y1="-12" x2="26" y2="-12" stroke="#A371F7" stroke-width="2"/>
       <circle cx="-20" cy="-16" r="1.5" fill="#A371F7"/>
       <circle cx="-15" cy="-16" r="1.5" fill="#A371F7"/>
       <circle cx="-10" cy="-16" r="1.5" fill="#A371F7"/>
-      <!-- Content lines (opacity pulse — simulates loading) -->
-      <line x1="-18" y1="-4" x2="10" y2="-4" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.7">
-        <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+      <!-- Content lines (slow 5s pulse, subtle range — elegant loading) -->
+      <line x1="-18" y1="-4" x2="10" y2="-4" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.5">
+        <animate attributeName="opacity" values="0.35;0.7;0.35" dur="5s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </line>
-      <line x1="-18" y1="4" x2="14" y2="4" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" begin="0.4s" repeatCount="indefinite"/>
+      <line x1="-18" y1="4" x2="14" y2="4" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.4">
+        <animate attributeName="opacity" values="0.25;0.6;0.25" dur="5s" begin="0.8s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </line>
-      <line x1="-18" y1="12" x2="6" y2="12" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.7;0.2" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+      <line x1="-18" y1="12" x2="6" y2="12" stroke="#A371F7" stroke-width="2" stroke-linecap="round" opacity="0.4">
+        <animate attributeName="opacity" values="0.25;0.6;0.25" dur="5s" begin="1.6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </line>
     </g>
 
@@ -221,73 +224,86 @@
     <!-- Top accent line -->
     <rect x="0" y="0" width="360" height="2" rx="1" fill="#79C0FF" opacity="0.8"/>
 
-    <!-- Icon: neural network (pulsing nodes + flowing connections) -->
+    <!-- Icon: neural network (single traveling signal — elegant, not chaotic) -->
     <g transform="translate(180, 84)">
-      <!-- Breathing glow behind icon -->
-      <circle cx="0" cy="0" r="34" fill="#79C0FF" opacity="0.15" filter="url(#iconGlow)">
-        <animate attributeName="r" values="30;38;30" dur="3.8s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-        <animate attributeName="opacity" values="0.1;0.25;0.1" dur="3.8s" repeatCount="indefinite"
-                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+      <!-- Glow (6s breath) -->
+      <circle cx="0" cy="0" r="34" fill="#79C0FF" opacity="0.12" filter="url(#iconGlow)">
+        <animate attributeName="r" values="31;36;31" dur="7s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+        <animate attributeName="opacity" values="0.1;0.2;0.1" dur="7s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
       </circle>
-      <!-- Connections (flowing opacity = signal propagation) -->
-      <line x1="-22" y1="-14" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="-14" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.1s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="-14" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.2s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="0" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.3s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="0" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.4s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="0" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.5s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="14" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="14" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.7s" repeatCount="indefinite"/>
-      </line>
-      <line x1="-22" y1="14" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.8s" repeatCount="indefinite"/>
-      </line>
-      <line x1="0" y1="-14" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="0.9s" repeatCount="indefinite"/>
-      </line>
-      <line x1="0" y1="0" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="1s" repeatCount="indefinite"/>
-      </line>
-      <line x1="0" y1="14" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.5" opacity="0.5">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" begin="1.1s" repeatCount="indefinite"/>
-      </line>
-      <!-- Nodes (pulsing) -->
+      <!-- Static connections (subtle, always visible) -->
+      <line x1="-22" y1="-14" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="-14" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="-14" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="0" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="0" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="0" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="14" x2="0" y2="-14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="14" x2="0" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="-22" y1="14" x2="0" y2="14" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="0" y1="-14" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="0" y1="0" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <line x1="0" y1="14" x2="22" y2="0" stroke="#79C0FF" stroke-width="1.2" opacity="0.25"/>
+      <!-- Stage 1: left nodes light up (0s) -->
       <circle cx="-22" cy="-14" r="4" fill="#79C0FF">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;1;0.4;0.4;0.4;0.4;0.4" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;5;3.5;3.5;3.5;3.5;3.5" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
       <circle cx="-22" cy="0" r="4" fill="#79C0FF">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;1;0.4;0.4;0.4;0.4;0.4" dur="6s" begin="0.2s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;5;3.5;3.5;3.5;3.5;3.5" dur="6s" begin="0.2s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
       <circle cx="-22" cy="14" r="4" fill="#79C0FF">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;1;0.4;0.4;0.4;0.4;0.4" dur="6s" begin="0.4s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;5;3.5;3.5;3.5;3.5;3.5" dur="6s" begin="0.4s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.15;0.3;0.45;0.6;0.8;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
+      <!-- Stage 2: middle nodes light up (2s) -->
       <circle cx="0" cy="-14" r="4" fill="#A371F7">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.4;1;0.4;0.4;0.4;0.4" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;3.5;5;3.5;3.5;3.5;3.5" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
       <circle cx="0" cy="0" r="4" fill="#A371F7">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.4;1;0.4;0.4;0.4;0.4" dur="6s" begin="0.2s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;3.5;5;3.5;3.5;3.5;3.5" dur="6s" begin="0.2s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
       <circle cx="0" cy="14" r="4" fill="#A371F7">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.4;1;0.4;0.4;0.4;0.4" dur="6s" begin="0.4s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;3.5;5;3.5;3.5;3.5;3.5" dur="6s" begin="0.4s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.3;0.45;0.6;0.75;0.9;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
+      <!-- Stage 3: right node lights up (4s) -->
       <circle cx="22" cy="0" r="4" fill="#79C0FF">
-        <animate attributeName="r" values="3.5;5;3.5" dur="2s" begin="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.4;0.4;1;0.4;0.4;0.4" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.45;0.6;0.75;0.85;0.95;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
+        <animate attributeName="r" values="3.5;3.5;3.5;5;3.5;3.5;3.5" dur="6s" repeatCount="indefinite"
+                 calcMode="spline" keyTimes="0;0.45;0.6;0.75;0.85;0.95;1"
+                 keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"/>
       </circle>
     </g>
 
